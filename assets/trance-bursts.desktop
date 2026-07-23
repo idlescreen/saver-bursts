@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Bursts
+Comment=Screensaver effect: bursts
+Exec=trance preview bursts
+Icon=trance-bursts
+Terminal=false
+Categories=Screensaver;
