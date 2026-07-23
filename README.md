@@ -1,15 +1,15 @@
-# plugin-bursts
+# saver-bursts
 
-Official **bursts** visualizer plugin for [IdleScreen](https://github.com/idlescreen/idlescreen).
+Official **bursts** visualizer plugin for [IdleScreen](https://github.com/idlescreen/idle-core).
 
 ## Build
 
 Requires a sibling checkout of the core daemon for `trance-api`:
 
 ```bash
-git clone https://github.com/idlescreen/idlescreen.git
-git clone https://github.com/idlescreen/plugin-bursts.git
-cd plugin-bursts
+git clone https://github.com/idlescreen/idle-core.git
+git clone https://github.com/idlescreen/saver-bursts.git
+cd saver-bursts
 cargo build --release
 ```
 
@@ -18,11 +18,11 @@ cargo build --release
 After adding the IdleScreen package repository:
 
 ```bash
-sudo apt install trance-plugin-bursts
-# or: sudo dnf install trance-plugin-bursts
+sudo apt install trance-saver-bursts
+# or: sudo dnf install trance-saver-bursts
 ```
 
-See [idlescreen.github.io/packages](https://idlescreen.github.io/packages/).
+See [idlescreen.github.io/idle-packages](https://idlescreen.github.io/idle-packages/).
 
 ## License
 
