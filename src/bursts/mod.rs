@@ -66,7 +66,7 @@ impl Bursts {
         let on_battery = sys.power_status.contains("Battery");
 
         Self {
-            rng: LcgRng::new_random(),
+            rng: LcgRng::from_env_or_random(),
             rockets: Vec::new(),
             particles: Vec::new(),
             explosions: Vec::new(),
