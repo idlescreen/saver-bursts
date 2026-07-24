@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <screensaver name="trance-bursts" _label="Bursts">
-  <command arg="trance start bursts"/>
+  <command arg="idle start bursts"/>
   <_description>
     Retro terminal screensaver effect (bursts) from the screensavers collection.
   </_description>

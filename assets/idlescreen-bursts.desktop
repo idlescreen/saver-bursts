@@ -2,7 +2,7 @@
 Type=Application
 Name=Bursts
 Comment=Screensaver effect: bursts
-Exec=trance preview bursts
+Exec=idle preview bursts
 Icon=trance-bursts
 Terminal=false
 Categories=Screensaver;
