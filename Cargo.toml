@@ -30,7 +30,7 @@ depends = "libc6"
 section = "utils"
 priority = "optional"
 assets = [
-    ["target/release/libscreensaver_bursts.so", "usr/libexec/idlescreen/screensavers/libscreensaver_bursts.so", "644"],
+    ["target/release/libscreensaver_bursts.so", "usr/libexec/idle/screensavers/libscreensaver_bursts.so", "644"],
     ["assets/idlescreen-bursts.png", "usr/share/pixmaps/idlescreen-bursts.png", "644"]
 ]
 
