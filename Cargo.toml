@@ -1,7 +1,7 @@
 [package]
 license = "Apache-2.0"
 name = "bursts"
-version = "2.0.1"
+version = "2.0.2"
 edition = "2024"
 description = "City skyline fireworks particle show"
 publish = false
